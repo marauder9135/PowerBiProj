@@ -2,7 +2,7 @@
 
 # 2. DataProfessional-Survey-Dashboard
 
-# Project Steps:
+## Project Steps:
 
 ## 1.) Data Cleaning: 
 ##### Transformed Data in Power query which included the following actions:
